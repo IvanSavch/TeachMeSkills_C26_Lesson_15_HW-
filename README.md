@@ -31,7 +31,7 @@ Create a collection of integers.
  * Calculate and display the arithmetic mean of all elements in the collection.
 
 
-   Task4
+Task4
 
    Create a collection of unique names of all students in our group + teacher.
  * Display the collection on the screen.
